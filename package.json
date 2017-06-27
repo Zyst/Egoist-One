@@ -1,8 +1,8 @@
 {
-  "name": "Egoist-One",
+  "name": "Egoist-one",
   "displayName": "Egoist One",
   "description": "Fork of Binarify/OneDark-Pro customized to my taste",
-  "version": "0.1",
+  "version": "1.0.0",
   "publisher": "Zyst",
   "bugs": {
     "url": "https://github.com/Zyst/Egoist-One/issues"

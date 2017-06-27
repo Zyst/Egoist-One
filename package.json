@@ -1,5 +1,5 @@
 {
-  "name": "Egoist-one",
+  "name": "Egoist-One",
   "displayName": "Egoist One",
   "description": "Fork of Binarify/OneDark-Pro customized to my taste",
   "version": "1.0.0",
@@ -27,12 +27,10 @@
       }
     ]
   },
-  "icon": "icon.svg",
+  "icon": "icon.png",
   "keywords": [
     "egoist one",
-    "custom",
     "one dark",
-    "onedark",
     "one dark pro",
     "theme",
     "atom"

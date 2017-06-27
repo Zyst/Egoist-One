@@ -1,0 +1,41 @@
+{
+  "name": "Egoist One",
+  "displayName": "Egoist One",
+  "description": "Fork of Binarify/OneDark-Pro customized to my taste",
+  "version": "0.1",
+  "publisher": "Zyst",
+  "bugs": {
+    "url": "https://github.com/Binaryify/OneDark-Pro/issues"
+  },
+  "homepage": "https://binaryify.github.io/OneDark-Pro/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Binaryify/OneDark-Pro"
+  },
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark-Pro.json"
+      }
+    ]
+  },
+  "icon": "icon.svg",
+  "keywords": [
+    "one dark",
+    "onedark",
+    "one dark pro",
+    "theme",
+    "atom"
+  ],
+  "devDependencies": {
+    "docsify-cli": "^3.3.2"
+  }
+}

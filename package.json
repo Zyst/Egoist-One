@@ -5,12 +5,12 @@
   "version": "0.1",
   "publisher": "Zyst",
   "bugs": {
-    "url": "https://github.com/Binaryify/OneDark-Pro/issues"
+    "url": "https://github.com/Zyst/Egoist-One/issues"
   },
-  "homepage": "https://binaryify.github.io/OneDark-Pro/",
+  "homepage": "https://github.com/Zyst/Egoist-One",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Binaryify/OneDark-Pro"
+    "url": "https://github.com/Zyst/Egoist-One"
   },
   "engines": {
     "vscode": "^1.12.0"
@@ -21,14 +21,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "One Dark Pro",
+        "label": "Egoist One",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark-Pro.json"
+        "path": "./themes/Egoist-One.json"
       }
     ]
   },
   "icon": "icon.svg",
   "keywords": [
+    "egoist one",
+    "custom",
     "one dark",
     "onedark",
     "one dark pro",

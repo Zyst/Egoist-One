@@ -654,7 +654,7 @@
     },
     {
       "name": "String coloring",
-      "scope": "string.quasi.js, string.quoted.single.js",
+      "scope": "string.quasi.js, string.quoted.single.js, string.quoted.double.js, string.quoted",
       "settings":{
         "foreground": "#98c379"
       }

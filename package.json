@@ -1,8 +1,8 @@
 {
-    "name": "Egoist-One-dev",
-    "displayName": "Egoist One dev",
+    "name": "Egoist-One",
+    "displayName": "Egoist One",
     "description": "Fork of Binarify/OneDark-Pro customized to my taste",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "publisher": "Zyst",
     "bugs": {
         "url": "https://github.com/Zyst/Egoist-One/issues"
@@ -21,7 +21,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Egoist One dev",
+                "label": "Egoist One",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Egoist-One.json"
             }

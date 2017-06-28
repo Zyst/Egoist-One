@@ -173,7 +173,7 @@
       "name": "java modifier.import",
       "scope": "storage.type.annotation.java",
       "settings": {
-        "foreground": "#e5c07bff"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -202,6 +202,13 @@
       "scope": "storage.modifier.import.java,storage.type.java",
       "settings": {
         "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "templated string ${} colors",
+      "scope": "punctuation.quasi.element.begin.js, punctuation.quasi.element.end.js",
+      "settings": {
+        "foreground": "#e06c75"
       }
     },
     {
@@ -655,7 +662,7 @@
     {
       "name": "String coloring",
       "scope": "string.quasi.js, string.quoted.single.js, string.quoted.double.js, string.quoted",
-      "settings":{
+      "settings": {
         "foreground": "#98c379"
       }
     },

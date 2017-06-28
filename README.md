@@ -4,6 +4,8 @@ My fork of [One Dark Pro](https://github.com/Binaryify/OneDark-Pro). Customized 
 # ScreenShot
 ![GraphiQL React demo](static/graphiql.png)
 
+![Enki normal JS demo](static/enki.png)
+
 # Tweaks
 If you would like to play around with new colors, use the setting workbench.colorCustomizations to customize the currently selected theme.
 

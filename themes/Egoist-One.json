@@ -336,7 +336,6 @@
         "foreground": "#d19a66"
       }
     },
-
     {
       "name": "js dom",
       "scope": "support.type.object.dom",

@@ -85,14 +85,6 @@
       }
     },
     {
-      "name": "Comment",
-      "scope": "comment",
-      "settings": {
-        "foreground": "#5C6370",
-        "fontStyle": "italic"
-      }
-    },
-    {
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
@@ -157,7 +149,7 @@
     },
     {
       "name": "js object",
-      "scope": "variable.other.property.js",
+      "scope": "variable.other.property.js, variable.other.property.static.js",
       "settings": {
         "foreground": "#bbbbbb"
       }
@@ -289,13 +281,6 @@
       }
     },
     {
-      "name": "comment",
-      "scope": "comment.line.double-slash,comment.block.documentation",
-      "settings": {
-        "fontStyle": "normal"
-      }
-    },
-    {
       "name": "js/ts json",
       "scope": "support.constant.json.js,support.constant.json.ts,support.constant.json.jsx,support.constant.json.tsx",
       "settings": {
@@ -313,7 +298,7 @@
       "name": "js/ts console",
       "scope": "support.type.object.console",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -339,16 +324,24 @@
     },
     {
       "name": "assignment operator",
+      "scope": "keyword.operator.assignment.jsx",
+      "settings": {
+        "foreground": "#bbbbbb"
+      }
+    },
+    {
+      "name": "assignment operator",
       "scope": "keyword.operator.assignment",
       "settings": {
         "foreground": "#d19a66"
       }
     },
+
     {
       "name": "js dom",
       "scope": "support.type.object.dom",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#e5c07b"
       }
     },
     {
@@ -913,6 +906,13 @@
       "scope": "punctuation.section.embedded, variable.interpolation",
       "settings": {
         "foreground": "#BE4F44"
+      }
+    },
+    {
+      "name": "JSX Embedded",
+      "scope": "punctuation.section.embedded.begin.jsx, punctuation.section.embedded.end.jsx",
+      "settings": {
+        "foreground": "#bbbbbb"
       }
     },
     {

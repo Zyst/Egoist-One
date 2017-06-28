@@ -2,7 +2,7 @@
 My fork of [One Dark Pro](https://github.com/Binaryify/OneDark-Pro). Customized for me. The extension can be found [here](https://marketplace.visualstudio.com/items?itemName=Zyst.Egoist-One) or installed with `ext install Egoist-One`.
 
 # ScreenShot
-None yet
+![GraphiQL React demo](static/graphiql.png)
 
 # Tweaks
 If you would like to play around with new colors, use the setting workbench.colorCustomizations to customize the currently selected theme.

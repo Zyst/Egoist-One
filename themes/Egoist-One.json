@@ -156,6 +156,13 @@
       }
     },
     {
+      "name": "js object",
+      "scope": "variable.other.property.js",
+      "settings": {
+        "foreground": "#bbbbbb"
+      }
+    },
+    {
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant.js,variable.other.constant.ts,variable.other.constant.jsx,variable.other.constant.tsx",
       "settings": {
@@ -208,7 +215,7 @@
       "name": "operator logical",
       "scope": "keyword.operator.logical.js,keyword.operator.logical.ts,keyword.operator.logical.jsx,keyword.operator.logical.tsx",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#d19a66"
       }
     },
     {
@@ -271,7 +278,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#bbbbbb"
       }
     },
     {
@@ -324,6 +331,13 @@
       }
     },
     {
+      "name": "assignment operator",
+      "scope": "keyword.operator.assignment",
+      "settings": {
+        "foreground": "#d19a66"
+      }
+    },
+    {
       "name": "js dom",
       "scope": "support.type.object.dom",
       "settings": {
@@ -341,7 +355,7 @@
       "name": "keyword.operator",
       "scope": "keyword.operator.arithmetic,keyword.operator.comparison",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#d19a66"
       }
     },
     {
@@ -583,6 +597,13 @@
       }
     },
     {
+      "name": "Arrow functions JS",
+      "scope": "storage.type.function.arrow.js",
+      "settings": {
+        "foreground": "#56B6C2"
+      }
+    },
+    {
       "name": "Java Storage",
       "scope": "token.storage.type.java",
       "settings": {
@@ -628,6 +649,13 @@
       "name": "Strings, Inherited Class",
       "scope": "string, entity.other.inherited-class",
       "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "String coloring",
+      "scope": "string.quasi.js, string.quoted.single.js",
+      "settings":{
         "foreground": "#98c379"
       }
     },
@@ -1154,7 +1182,7 @@
       "name": "js ts this",
       "scope": "var.this.js,var.this.ts,variable.language.this.js,variable.language.this.ts",
       "settings": {
-        "foreground": "#e5c07b",
+        "foreground": "#e06c75",
         "fontStyle": "italic"
       }
     },

@@ -127,6 +127,13 @@
       }
     },
     {
+      "name": "flow type keyword",
+      "scope": "support.type.type.flowtype",
+      "settings": {
+        "foreground": "#d19a66"
+      }
+    },
+    {
       "name": "js/ts punctuation separator key-value",
       "scope": "punctuation.separator.key-value.js,punctuation.separator.key-value.ts,punctuation.separator.key-value.jsx,punctuation.separator.key-value.tsx",
       "settings": {

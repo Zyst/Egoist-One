@@ -142,7 +142,7 @@
     },
     {
       "name": "flow italics",
-      "scope": "support.type.builtin.primitve.flowtype,support.type.primitive.flowtype",
+      "scope": "support.type.builtin.primitve.flowtype,support.type.primitive.flowtype,support.type.builtin.primitive.flowtype",
       "settings": {
         "foreground": "#e5c07b",
         "fontStyle": "italic"

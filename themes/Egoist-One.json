@@ -152,8 +152,7 @@
       "name": "flow optional",
       "scope": "keyword.operator.optional.parameter.flowtype,keyword.operator.maybe.flowtype",
       "settings": {
-        "foreground": "#56B6C2",
-        "fontStyle": "italic"
+        "foreground": "#56B6C2"
       }
     },
     {

@@ -134,15 +134,15 @@
       }
     },
     {
-      "name": "flow class",
-      "scope": "support.type.class.flowtype",
+      "name": "flow class, types, and primitives",
+      "scope": "support.type.class.flowtype,support.type.builtin.flowtype,support.type.primitive.flowtype",
       "settings": {
         "foreground": "#e5c07b"
       }
     },
     {
       "name": "js/ts punctuation separator key-value",
-      "scope": "punctuation.separator.key-value.js,punctuation.separator.key-value.ts,punctuation.separator.key-value.jsx,punctuation.separator.key-value.tsx",
+      "scope": "punctuationi.separator.key-value.js,punctuation.separator.key-value.ts,punctuation.separator.key-value.jsx,punctuation.separator.key-value.tsx",
       "settings": {
         "foreground": "#bbbbbb"
       }

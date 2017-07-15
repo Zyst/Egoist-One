@@ -135,9 +135,25 @@
     },
     {
       "name": "flow class, types, and primitives",
-      "scope": "support.type.class.flowtype,support.type.builtin.flowtype,support.type.primitive.flowtype",
+      "scope": "support.type.class.flowtype,support.type.builtin.flowtype",
       "settings": {
         "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "flow italics",
+      "scope": "support.type.builtin.primitve.flowtype,support.type.primitive.flowtype",
+      "settings": {
+        "foreground": "#e5c07b",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "flow optional",
+      "scope": "keyword.operator.optional.parameter.flowtype,keyword.operator.maybe.flowtype",
+      "settings": {
+        "foreground": "#61afef",
+        "fontStyle": "italic"
       }
     },
     {

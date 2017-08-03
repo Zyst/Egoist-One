@@ -1,7 +1,7 @@
 # Egoist One
 My fork of [One Dark Pro](https://github.com/Binaryify/OneDark-Pro). Customized for me. The extension can be found [here](https://marketplace.visualstudio.com/items?itemName=Zyst.Egoist-One) or installed with `ext install Egoist-One`.
 
-# Screen shots
+# Screenshots
 ![GraphiQL React demo](static/graphiql.png)
 
 ![Enki normal JS demo](static/enki.png)
